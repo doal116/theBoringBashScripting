@@ -1,6 +1,3 @@
-Certainly! Here's a sample README.md for your repository "The Boring Bash Scripting":
-
-```
 # The Boring Bash Scripting
 
 Welcome to "The Boring Bash Scripting" repository! This repository is dedicated to automating various tasks using Bash scripting. If you're already familiar with Bash and interested in automating routine tasks, testing programs, organizing directories, setting up development environments, and more, then this repository is for you.
@@ -67,7 +64,3 @@ For more information on how to contribute, please refer to the [CONTRIBUTING.md]
 ## License
 
 "The Boring Bash Scripting" repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository for personal and commercial purposes. However, please attribute the original work to this repository.
-
-```
-
-Feel free to customize the README.md according to your specific requirements and add more sections as needed. Happy automating with Bash!
